@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bpinnama\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bpinnama\\.nuget\\packages"
+    ]
+  }
+}
